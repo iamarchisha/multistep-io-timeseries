@@ -1,5 +1,5 @@
 # Multistep Input-Output Timeseries using LSTM
-Python script for regression of multivariable LSTM neural network.
+Probabilistic forecast a complex wind generator system with multiple parameters in assisting decision making and for predictive maintenance through data-driven techniques; in this case, recurrent neural networks.
 
 ## Requirements
 - python == 3.9.1
