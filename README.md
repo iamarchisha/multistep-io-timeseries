@@ -47,6 +47,11 @@ obj = TSLSTM(
 ```
 To run the script, simply use `python tslstm.py`
 
+## Output
+Two images will be stored in `./images` and a `logs.log` file will be generated.
+![image](https://user-images.githubusercontent.com/47753303/123501382-1c028b80-d662-11eb-88c5-ecc4a16ae586.png)
+![image](https://user-images.githubusercontent.com/47753303/123501389-30df1f00-d662-11eb-8ee3-18f2462b2de9.png)
+
 ## References
 - [Multistep Time Series Forecasting with LSTMs in Python](https://machinelearningmastery.com/multi-step-time-series-forecasting-long-short-term-memory-networks-python/)
 - [Multi-Step Multivariate Time-Series Forecasting using LSTM](https://pangkh98.medium.com/multi-step-multivariate-time-series-forecasting-using-lstm-92c6d22cd9c2)
